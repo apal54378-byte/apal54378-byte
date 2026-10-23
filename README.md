@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Arjun Pal
+# Arjun Pal
 
 ### 🤖 Machine Learning Engineer | AI & Generative AI Enthusiast
 
