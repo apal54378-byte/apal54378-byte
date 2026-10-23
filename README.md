@@ -5,7 +5,7 @@
 
 # Arjun Pal
 
-### 🤖 Machine Learning Engineer | AI & Generative AI Enthusiast
+###  Machine Learning Engineer | AI & Generative AI Enthusiast
 
 **Building intelligent systems. Turning data into decisions. Making AI useful.**
 
